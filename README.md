@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=jiteshjitsun)
+
 <!--
 **jiteshjitsun/jiteshjitsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
