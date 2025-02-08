@@ -9,7 +9,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 🤔 I’m looking for help with **scaling applications** and **improving system performance**.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Python**.
 - 📫 How to reach me: [Email](mailto:jiteshjitsun@example.com)
-- ⚡ Fun fact: I enjoy **playing chess** and **cycling** in my free time.
+- ⚡ Fun fact: I enjoy **playing chess** and **Badminton, swimming** in my free time.
 
 ## Skills
 
