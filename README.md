@@ -1,4 +1,4 @@
-# Hi there, I'm Jitesh Jitsun 👋
+# Hi there, I'm Jitesh Singh 👋
 
 ## About Me
 
