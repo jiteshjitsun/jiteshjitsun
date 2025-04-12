@@ -2,14 +2,6 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I love to explore new technologies and apply them to solve real-world problems.
-
-- 🌱 I’m currently learning **DevOps** and **Cloud Computing**.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 🤔 I’m looking for help with **scaling applications** and **improving system performance**.
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Python**.
-- 📫 How to reach me: [Email](mailto:jiteshjitsun@example.com)
-- ⚡ Fun fact: I enjoy **playing chess** and **Badminton, swimming** in my free time.
 
 ## Skills
 
