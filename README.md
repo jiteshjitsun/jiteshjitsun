@@ -1,35 +1,15 @@
-# Hi there, I'm Jitesh Singh 👋
+# Hi there 👋
 
-## About Me
+- I am Jitesh Singh 24 yr old B.tech Grad and a Software Engineer.
 
 
-## Skills
+## Skills - Upgrading everyday what to know current one's mail me :)
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frontend**: React, Redux, HTML5, CSS3, Sass
-- **Backend**: Node.js, Express.js, Django, Flask
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **DevOps**: Docker, Kubernetes, Jenkins, AWS, Azure
-- **Tools**: Git, Webpack, Babel, NPM, Yarn
+## Putting what I want to do here so that I can remember them. 
 
-## GitHub Stats
-
-![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiteshjitsun&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshjitsun&layout=compact&theme=radical)
-
-## Projects
-
-### [Project 1](https://github.com/jiteshjitsun/project1)
-A brief description of Project 1.
-
-### [Project 2](https://github.com/jiteshjitsun/project2)
-A brief description of Project 2.
-
-### [Project 3](https://github.com/jiteshjitsun/project3)
-A brief description of Project 3.
+- Read as much as possible /from book
+- Travell
+- build atleast 2 amazing things.
 
 ## Connect with Me
 
