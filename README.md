@@ -8,7 +8,7 @@
 ## Putting what I want to do here so that I can remember them. 
 
 - Read as much as possible /from book
-- Travell
+- Travel
 - build atleast 2 amazing things.
 
 ## Connect with Me
